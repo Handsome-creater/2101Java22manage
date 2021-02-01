@@ -2,7 +2,7 @@ package com.daniu101.chapter10.hw2;
 
 public class AppleTest {
     public static void main(String[] args) {
-        Apple ap = new Apple();
+        com.daniu101.chapter10.hw2.Apple ap = new Apple();
 
         ap.setSize(20);
         ap.setStatus(false);

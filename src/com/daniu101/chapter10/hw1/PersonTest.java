@@ -2,7 +2,7 @@ package com.daniu101.chapter10.hw1;
 
 public class PersonTest {
     public static void main(String[] args) {
-       Person pe = new Person();
+       com.daniu101.chapter10.hw1.Person pe = new Person();
 
 
         pe.setHeight(60);
